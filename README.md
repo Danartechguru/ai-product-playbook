@@ -50,9 +50,17 @@ finishes with a human-first pass that strips the "AI slop" tells. Research-backe
 GEO study's ranked levers) and built for product managers and marketers writing
 newsletters, announcements, and articles.
 
+### 🛡️ [`enterprise-ai-security`](skills/enterprise-ai-security)
+The executive security and compliance brain for an AI company: decide which frameworks to
+pursue and in what order (SOC 2, ISO 27001, ISO/IEC 42001, NIST CSF 2.0 + AI RMF, NIS2,
+DORA), run a gap/risk assessment, threat-model an LLM product against the OWASP Top 10 for
+LLMs, and build the trust story that unblocks enterprise deals (board briefings, trust
+center, security questionnaires). AI-first, CTO/CISO-level — decisions and trade-offs, not
+control memorization.
+
 The first three cover the questions every AI product has to answer —
-**is it desirable, is it viable, and can it actually be adopted?** — and the fourth makes
-sure the story actually gets found.
+**is it desirable, is it viable, and can it actually be adopted?** The fourth makes sure
+the story gets found, and the fifth makes it **trusted and enterprise-ready**.
 
 ## How to use them
 
