@@ -43,8 +43,16 @@ per account — and finds the levers (prompt caching, model routing, output limi
 pricing structure (seat / usage / outcome / hybrid) that protect gross margin. The
 viability leg most product teams skip.
 
-Together they cover the three questions every AI product has to answer:
-**is it desirable, is it viable, and can it actually be adopted?**
+### 🔎 [`ai-search-optimization`](skills/ai-search-optimization)
+Writes and optimizes content so it gets surfaced and cited by AI search — Google AI
+Overviews, ChatGPT, Claude, Perplexity, Gemini — covering AEO, GEO, and modern SEO, then
+finishes with a human-first pass that strips the "AI slop" tells. Research-backed (the
+GEO study's ranked levers) and built for product managers and marketers writing
+newsletters, announcements, and articles.
+
+The first three cover the questions every AI product has to answer —
+**is it desirable, is it viable, and can it actually be adopted?** — and the fourth makes
+sure the story actually gets found.
 
 ## How to use them
 
