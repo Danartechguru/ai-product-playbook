@@ -1,0 +1,29 @@
+{
+  "name": "ai-product-playbook",
+  "description": "Five Claude Skills for AI product leadership: product roadmap, unit economics & pricing, EU AI adoption, AI search optimization, and enterprise AI security.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Danar Mustafa",
+    "url": "https://danarmustafa.com"
+  },
+  "homepage": "https://github.com/Danartechguru/ai-product-playbook",
+  "repository": "https://github.com/Danartechguru/ai-product-playbook",
+  "license": "MIT",
+  "keywords": [
+    "ai",
+    "product-management",
+    "cpo",
+    "roadmap",
+    "unit-economics",
+    "pricing",
+    "gdpr",
+    "eu-ai-act",
+    "aeo",
+    "geo",
+    "seo",
+    "security",
+    "iso-42001",
+    "nist",
+    "nis2"
+  ]
+}
