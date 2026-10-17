@@ -1,0 +1,15 @@
+{
+  "name": "danar-ai-skills",
+  "description": "AI product leadership skills by Danar Mustafa — roadmap, unit economics, EU AI adoption, AI search optimization, and enterprise AI security.",
+  "owner": {
+    "name": "Danar Mustafa",
+    "url": "https://danarmustafa.com"
+  },
+  "plugins": [
+    {
+      "name": "ai-product-playbook",
+      "source": ".",
+      "description": "Five Claude Skills for taking AI products from idea to a compliant, margin-positive, enterprise-trusted launch."
+    }
+  ]
+}
